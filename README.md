@@ -14,3 +14,17 @@
 - 📢 Call me **DARCY**
 
 <br/>
+
+### Languages & Tools:
+
+#### Programming Languages:
+
+<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
+
+<img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
+
+<img align="left" alt="C" width="30px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png">
+
+<img align="left" alt="JS" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png">
+
+<br/>
