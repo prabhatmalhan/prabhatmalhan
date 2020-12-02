@@ -1,7 +1,7 @@
 ## Hello, I'm Prabhat 👋
 [<img src="https://komarev.com/ghpvc/?username=aviral10&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/prabhatmalhan)
 
-<img src="https://magiccopy.xyz/assets/images/hadder.gif" align="right"  width="35%"/>
+<img src="https://magiccopy.xyz/assets/images/hadder.gif" align="right"  width="42%"/>
 
 ### I'm a CS undergrad.
 
