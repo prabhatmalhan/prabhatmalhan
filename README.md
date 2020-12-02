@@ -33,3 +33,15 @@
 
 ---
 ### Stats:
+<!-- 
+[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviral10&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs&cache_second=10000)](https://github.com/aviral10)
+-->
+<img alt="Prabhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhatmalhan&show_icons=true&count_private=true&theme=tokyonight" />
+
+
+
+### Language stats:
+
+<img alt="Prabhat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatmalhan&layout=compact&theme=tokyonight&hide=javascript,Jupyter Notebook"/>
+
+---
