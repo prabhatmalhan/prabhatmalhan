@@ -5,6 +5,4 @@
 - 👯 Open to collaborate 
 - 💼 Actively Seeking internship opportunities
 - 💬 Ask me about **C++** and **openCV**
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-⚡ Hobbies: I like making meme and listening to music
