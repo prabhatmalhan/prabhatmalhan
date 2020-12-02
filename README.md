@@ -59,7 +59,16 @@
 
 <img align="left" alt="Windows" width="35px" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg">
 
-<img align="left" alt="Kali" width="35px" src="https://banner2.cleanpng.com/20180528/hbv/kisspng-kali-linux-backtrack-penetration-test-ubuntu-sick-5b0bd90c6d59a5.1663627615275031164479.jpg">
+<img align="left" alt="Kali" width="42px" src="https://banner2.cleanpng.com/20180528/hbv/kisspng-kali-linux-backtrack-penetration-test-ubuntu-sick-5b0bd90c6d59a5.1663627615275031164479.jpg">
+
+<br/>
+
+
+#### Other Skills:
+
+<img align="left" alt="Illustrator" width="35px" src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-plain.svg">
+
+<img align="left" alt="Photoshop" width="35px" src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-line.svg">
 
 
 <br/>
