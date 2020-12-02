@@ -40,6 +40,7 @@
 <img align="left" alt="BASH" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
 <br/>
+
 ---
 ### Stats:
 <img alt="Prabhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhatmalhan&show_icons=true&count_private=true&theme=tokyonight" />
