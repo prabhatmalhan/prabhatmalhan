@@ -55,7 +55,7 @@
 
 #### Cloud Services:
 
-<img align="left" alt="AWS" width="37px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+<img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 
 <img align="left" alt="GCS" width="37px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 
