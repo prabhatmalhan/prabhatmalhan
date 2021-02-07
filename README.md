@@ -22,11 +22,11 @@
 
 <img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
 
-<img align="left" alt="C" width="30px" src="https://devicon.dev/devicon.git/icons/c/c-original.svg">
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-<img align="left" alt="Python" width="35px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg">
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="left" alt="Java" width="35px" src="https://devicon.dev/devicon.git/icons/java/java-original.svg">
+<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <br/>
 
@@ -41,9 +41,9 @@
 
 #### Tools:
 
-<img align="left" alt="Bootstrap" width="35px" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg">
+<img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 
-<img align="left" alt="Android" width="35px" src="https://devicon.dev/devicon.git/icons/android/android-original-wordmark.svg">
+<img align="left" alt="Android" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 
 <img align="left" alt="VSCODE" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 
@@ -53,22 +53,33 @@
 
 <br/>
 
+#### Cloud Services:
+
+<img align="left" alt="AWS" width="37px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+
+<img align="left" alt="GCS" width="37px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+
+<br/>
+
+
 #### Operating Systems:
 
-<img align="left" alt="Ubuntu" width="35px" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg">
+<img align="left" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 
-<img align="left" alt="Windows" width="35px" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg">
+<img align="left" alt="Windows" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 
-<img align="left" alt="Kali" width="42px" src="https://banner2.cleanpng.com/20180528/hbv/kisspng-kali-linux-backtrack-penetration-test-ubuntu-sick-5b0bd90c6d59a5.1663627615275031164479.jpg">
+<img align="left" alt="Debian" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 
 <br/>
 
 
 #### Other Skills:
 
-<img align="left" alt="Illustrator" width="35px" src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-plain.svg">
+<img align="left" alt="Premier" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
 
-<img align="left" alt="Photoshop" width="35px" src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-line.svg">
+<img align="left" alt="Photoshop" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+
+<img align="left" alt="Wordpress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 
 
 <br/>
