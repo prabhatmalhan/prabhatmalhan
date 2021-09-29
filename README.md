@@ -6,7 +6,7 @@
 ### I'm a CS undergrad.
 
 - 🔭 I’m currently exploring [**Data Structures and Algorithms**](https://github.com/prabhatmalhan/Algorithms)
-- 🌱 I’m currently learning **GRAPHS**
+- 🌱 I’m currently learning **Deep Learning**
 - 👯 Open to collaborate 
 - 💼 Actively Seeking internship opportunities
 - 💬 Ask me about **C++** and **openCV**
@@ -75,7 +75,7 @@
 
 #### Other Skills:
 
-<img align="left" alt="Premier" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
+<img align="left" alt="DaVinci" width="35px" src="https://img.icons8.com/color/48/000000/davinci-resolve.png">
 
 <img align="left" alt="Photoshop" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 
