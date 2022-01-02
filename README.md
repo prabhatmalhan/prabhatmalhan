@@ -5,13 +5,12 @@
 
 ### I'm a CS undergrad.
 
-- 🔭 I’m currently exploring [**Data Structures and Algorithms**](https://github.com/prabhatmalhan/Algorithms)
+- 🔭 I’m currently exploring **DOCKER**
 - 🌱 I’m currently learning **Deep Learning**
 - 👯 Open to collaborate 
 - 💼 Actively Seeking internship opportunities
 - 💬 Ask me about **C++** and **openCV**
 - ⚡ Hobbies: I like making meme and listening to music
-- 📢 Call me **DARCY**
 
 <br/>
 
