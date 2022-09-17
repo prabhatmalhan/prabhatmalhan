@@ -80,17 +80,10 @@
 
 <img align="left" alt="Wordpress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 
+<img align="left" alt="Wordpress" width="35px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58551966">
 
 <br/>
 
 ---
 ### Stats:
 <img alt="Prabhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhatmalhan&show_icons=true&count_private=true&theme=tokyonight" />
-
-
-
-### Language stats:
-
-<img alt="Prabhat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatmalhan&layout=compact&theme=tokyonight&hide=javascript,Jupyter Notebook"/>
-
----
